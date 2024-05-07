@@ -810,10 +810,10 @@ Other Types of Plots
 ====================
 
 .. image:: figures/plot.png
-   :target: `Regular Plots`_
+   :target: #regular-plots
 
 .. image:: figures/scatter.png
-   :target: `Scatter Plots`_
+   :target: `./Scatter Plots`_
 
 .. image:: figures/bar.png
    :target: `Bar Plots`_
